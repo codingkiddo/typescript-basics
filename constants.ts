@@ -1,0 +1,1 @@
+export const valueOfPi:number = 3.14;
